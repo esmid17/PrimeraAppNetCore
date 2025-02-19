@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|c:\\users\\lenovo\\downloads\\primeraappnetcore\\primeraappnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|solutionrelative:primeraappnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|c:\\users\\lenovo\\downloads\\primeraappnetcore\\primeraappnetcore\\wwwroot\\js\\generic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|solutionrelative:primeraappnetcore\\wwwroot\\js\\generic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3738C718-FD07-4506-B9F0-3207F87C3FDE}|CapaDatos\\CapaDatos.csproj|c:\\users\\lenovo\\downloads\\primeraappnetcore\\capadatos\\medicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3738C718-FD07-4506-B9F0-3207F87C3FDE}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\medicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|c:\\users\\lenovo\\downloads\\primeraappnetcore\\primeraappnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|solutionrelative:primeraappnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,19 +58,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "sucursal.js",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\PrimeraAppNetCore\\wwwroot\\js\\sucursal.js",
-              "RelativeDocumentMoniker": "PrimeraAppNetCore\\wwwroot\\js\\sucursal.js",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\PrimeraAppNetCore\\wwwroot\\js\\sucursal.js",
-              "RelativeToolTip": "PrimeraAppNetCore\\wwwroot\\js\\sucursal.js",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-19T15:26:50.689Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "laboratorio.js",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\PrimeraAppNetCore\\wwwroot\\js\\laboratorio.js",
               "RelativeDocumentMoniker": "PrimeraAppNetCore\\wwwroot\\js\\laboratorio.js",
@@ -82,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SucursalController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\PrimeraAppNetCore\\Controllers\\SucursalController.cs",
               "RelativeDocumentMoniker": "PrimeraAppNetCore\\Controllers\\SucursalController.cs",
@@ -94,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ConexionSQL.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\CapaDatos\\ConexionSQL.cs",
               "RelativeDocumentMoniker": "CapaDatos\\ConexionSQL.cs",
@@ -102,12 +90,11 @@
               "RelativeToolTip": "CapaDatos\\ConexionSQL.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T18:09:04.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T18:09:04.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SucursalCLS.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\CapaEntidad\\SucursalCLS.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\SucursalCLS.cs",
@@ -115,12 +102,11 @@
               "RelativeToolTip": "CapaEntidad\\SucursalCLS.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T18:12:44.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T18:12:44.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "generic.js",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\PrimeraAppNetCore\\wwwroot\\js\\generic.js",
               "RelativeDocumentMoniker": "PrimeraAppNetCore\\wwwroot\\js\\generic.js",
@@ -133,7 +119,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\PrimeraAppNetCore\\appsettings.json",
+              "RelativeDocumentMoniker": "PrimeraAppNetCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\PrimeraAppNetCore\\appsettings.json",
+              "RelativeToolTip": "PrimeraAppNetCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T18:07:26.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sucursal.js",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\PrimeraAppNetCore\\wwwroot\\js\\sucursal.js",
+              "RelativeDocumentMoniker": "PrimeraAppNetCore\\wwwroot\\js\\sucursal.js",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\PrimeraAppNetCore\\wwwroot\\js\\sucursal.js",
+              "RelativeToolTip": "PrimeraAppNetCore\\wwwroot\\js\\sucursal.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-19T15:26:50.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\PrimeraAppNetCore\\Views\\Sucursal\\Index.cshtml",
               "RelativeDocumentMoniker": "PrimeraAppNetCore\\Views\\Sucursal\\Index.cshtml",
@@ -145,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\PrimeraAppNetCore\\Views\\Laboratorio\\Index.cshtml",
               "RelativeDocumentMoniker": "PrimeraAppNetCore\\Views\\Laboratorio\\Index.cshtml",
@@ -157,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "LaboratorioController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\PrimeraAppNetCore\\Controllers\\LaboratorioController.cs",
               "RelativeDocumentMoniker": "PrimeraAppNetCore\\Controllers\\LaboratorioController.cs",
@@ -169,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MedicamentoDAL.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\CapaDatos\\MedicamentoDAL.cs",
               "RelativeDocumentMoniker": "CapaDatos\\MedicamentoDAL.cs",
@@ -178,18 +189,6 @@
               "ViewState": "AgIAAEkAAAAAAAAAAAAAwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T18:10:54.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\PrimeraAppNetCore\\appsettings.json",
-              "RelativeDocumentMoniker": "PrimeraAppNetCore\\appsettings.json",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\PrimeraAppNetCore\\PrimeraAppNetCore\\appsettings.json",
-              "RelativeToolTip": "PrimeraAppNetCore\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-19T18:07:26.525Z"
             }
           ]
         }
