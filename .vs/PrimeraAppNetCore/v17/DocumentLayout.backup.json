@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3738C718-FD07-4506-B9F0-3207F87C3FDE}|CapaDatos\\CapaDatos.csproj|c:\\users\\admin\\onedrive\\documentos\\6to semestre\\usabilidad\\primeraappnetcore\\capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3738C718-FD07-4506-B9F0-3207F87C3FDE}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3738C718-FD07-4506-B9F0-3207F87C3FDE}|CapaDatos\\CapaDatos.csproj|c:\\users\\admin\\onedrive\\documentos\\6to semestre\\usabilidad\\primeraappnetcore\\capadatos\\cadenadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3738C718-FD07-4506-B9F0-3207F87C3FDE}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cadenadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|c:\\users\\admin\\onedrive\\documentos\\6to semestre\\usabilidad\\primeraappnetcore\\primeraappnetcore\\wwwroot\\js\\generic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|solutionrelative:primeraappnetcore\\wwwroot\\js\\generic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|c:\\users\\admin\\onedrive\\documentos\\6to semestre\\usabilidad\\primeraappnetcore\\primeraappnetcore\\controllers\\sucursalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|solutionrelative:primeraappnetcore\\controllers\\sucursalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|c:\\users\\admin\\onedrive\\documentos\\6to semestre\\usabilidad\\primeraappnetcore\\primeraappnetcore\\wwwroot\\js\\sucursal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|solutionrelative:primeraappnetcore\\wwwroot\\js\\sucursal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|c:\\users\\admin\\onedrive\\documentos\\6to semestre\\usabilidad\\primeraappnetcore\\primeraappnetcore\\wwwroot\\js\\laboratorio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|solutionrelative:primeraappnetcore\\wwwroot\\js\\laboratorio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C093177-9578-4553-8CFF-AB55CE497C8B}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\admin\\onedrive\\documentos\\6to semestre\\usabilidad\\primeraappnetcore\\capaentidad\\sucursalcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C093177-9578-4553-8CFF-AB55CE497C8B}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\sucursalcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5037FE43-6E17-4068-95ED-C05F905B9708}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\admin\\onedrive\\documentos\\6to semestre\\usabilidad\\primeraappnetcore\\capanegocio\\sucursalbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5037FE43-6E17-4068-95ED-C05F905B9708}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\sucursalbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5037FE43-6E17-4068-95ED-C05F905B9708}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\admin\\onedrive\\documentos\\6to semestre\\usabilidad\\primeraappnetcore\\capanegocio\\laboratoriobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5037FE43-6E17-4068-95ED-C05F905B9708}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\laboratoriobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3738C718-FD07-4506-B9F0-3207F87C3FDE}|CapaDatos\\CapaDatos.csproj|c:\\users\\admin\\onedrive\\documentos\\6to semestre\\usabilidad\\primeraappnetcore\\capadatos\\laboratoriodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3738C718-FD07-4506-B9F0-3207F87C3FDE}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\laboratoriodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|c:\\users\\admin\\onedrive\\documentos\\6to semestre\\usabilidad\\primeraappnetcore\\primeraappnetcore\\views\\sucursal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|solutionrelative:primeraappnetcore\\views\\sucursal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|c:\\users\\admin\\onedrive\\documentos\\6to semestre\\usabilidad\\primeraappnetcore\\primeraappnetcore\\views\\laboratorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|solutionrelative:primeraappnetcore\\views\\laboratorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|c:\\users\\admin\\onedrive\\documentos\\6to semestre\\usabilidad\\primeraappnetcore\\primeraappnetcore\\controllers\\laboratoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|solutionrelative:primeraappnetcore\\controllers\\laboratoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3738C718-FD07-4506-B9F0-3207F87C3FDE}|CapaDatos\\CapaDatos.csproj|c:\\users\\admin\\onedrive\\documentos\\6to semestre\\usabilidad\\primeraappnetcore\\capadatos\\medicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3738C718-FD07-4506-B9F0-3207F87C3FDE}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\medicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|c:\\users\\admin\\onedrive\\documentos\\6to semestre\\usabilidad\\primeraappnetcore\\primeraappnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B6E3C96-A95A-4B8F-BD21-6FAE9E1A8F7D}|PrimeraAppNetCore\\PrimeraAppNetCore.csproj|solutionrelative:primeraappnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sucursal.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\PrimeraAppNetCore\\wwwroot\\js\\sucursal.js",
+              "RelativeDocumentMoniker": "PrimeraAppNetCore\\wwwroot\\js\\sucursal.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\PrimeraAppNetCore\\wwwroot\\js\\sucursal.js",
+              "RelativeToolTip": "PrimeraAppNetCore\\wwwroot\\js\\sucursal.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-19T15:26:50.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "laboratorio.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\PrimeraAppNetCore\\wwwroot\\js\\laboratorio.js",
+              "RelativeDocumentMoniker": "PrimeraAppNetCore\\wwwroot\\js\\laboratorio.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\PrimeraAppNetCore\\wwwroot\\js\\laboratorio.js",
+              "RelativeToolTip": "PrimeraAppNetCore\\wwwroot\\js\\laboratorio.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-19T19:25:04.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SucursalController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\PrimeraAppNetCore\\Controllers\\SucursalController.cs",
+              "RelativeDocumentMoniker": "PrimeraAppNetCore\\Controllers\\SucursalController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\PrimeraAppNetCore\\Controllers\\SucursalController.cs",
+              "RelativeToolTip": "PrimeraAppNetCore\\Controllers\\SucursalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T15:35:31.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadenaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\CapaDatos\\CadenaDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CadenaDAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\CapaDatos\\CadenaDAL.cs",
+              "RelativeToolTip": "CapaDatos\\CadenaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:09:04.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LaboratorioDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\CapaDatos\\LaboratorioDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\LaboratorioDAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\CapaDatos\\LaboratorioDAL.cs",
+              "RelativeToolTip": "CapaDatos\\LaboratorioDAL.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:09:55.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SucursalDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\CapaDatos\\SucursalDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\SucursalDAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\CapaDatos\\SucursalDAL.cs",
+              "RelativeToolTip": "CapaDatos\\SucursalDAL.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T15:31:31.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LaboratorioBL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\CapaNegocio\\LaboratorioBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\LaboratorioBL.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\CapaNegocio\\LaboratorioBL.cs",
+              "RelativeToolTip": "CapaNegocio\\LaboratorioBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:11:33.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SucursalBL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\CapaNegocio\\SucursalBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\SucursalBL.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\CapaNegocio\\SucursalBL.cs",
+              "RelativeToolTip": "CapaNegocio\\SucursalBL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:11:41.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SucursalCLS.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\CapaEntidad\\SucursalCLS.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\SucursalCLS.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\CapaEntidad\\SucursalCLS.cs",
+              "RelativeToolTip": "CapaEntidad\\SucursalCLS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:12:44.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "generic.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\PrimeraAppNetCore\\wwwroot\\js\\generic.js",
+              "RelativeDocumentMoniker": "PrimeraAppNetCore\\wwwroot\\js\\generic.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\PrimeraAppNetCore\\wwwroot\\js\\generic.js",
+              "RelativeToolTip": "PrimeraAppNetCore\\wwwroot\\js\\generic.js",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-19T15:27:55.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\PrimeraAppNetCore\\Views\\Sucursal\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrimeraAppNetCore\\Views\\Sucursal\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\PrimeraAppNetCore\\Views\\Sucursal\\Index.cshtml",
+              "RelativeToolTip": "PrimeraAppNetCore\\Views\\Sucursal\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T15:27:15.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\PrimeraAppNetCore\\Views\\Laboratorio\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrimeraAppNetCore\\Views\\Laboratorio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\PrimeraAppNetCore\\Views\\Laboratorio\\Index.cshtml",
+              "RelativeToolTip": "PrimeraAppNetCore\\Views\\Laboratorio\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T19:18:50.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LaboratorioController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\PrimeraAppNetCore\\Controllers\\LaboratorioController.cs",
+              "RelativeDocumentMoniker": "PrimeraAppNetCore\\Controllers\\LaboratorioController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\PrimeraAppNetCore\\Controllers\\LaboratorioController.cs",
+              "RelativeToolTip": "PrimeraAppNetCore\\Controllers\\LaboratorioController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:14:02.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MedicamentoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\CapaDatos\\MedicamentoDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\MedicamentoDAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\CapaDatos\\MedicamentoDAL.cs",
+              "RelativeToolTip": "CapaDatos\\MedicamentoDAL.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:10:54.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\PrimeraAppNetCore\\appsettings.json",
+              "RelativeDocumentMoniker": "PrimeraAppNetCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documentos\\6to SEMESTRE\\USABILIDAD\\PrimeraAppNetCore\\PrimeraAppNetCore\\appsettings.json",
+              "RelativeToolTip": "PrimeraAppNetCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T18:07:26.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
